@@ -1,1 +1,1 @@
-# Data-Diamonds-Price-Predict
+# Kaggle Competition to Predict Diamonds Price
